@@ -1,7 +1,7 @@
 # Automated-Content-Creator-2023
 
-**This project was discontinued in mid-2023 upon completion and has not been maintained since. Users should be aware that some aspects of the code may no longer function as intended due to changes in the APIs or dependencies. This code was created for use by one user. Directory references must be changed to the relevant location for each user.
-**
+This project was discontinued in mid-2023 upon completion and has not been maintained since. Users should be aware that some aspects of the code may no longer function as intended due to changes in the APIs or dependencies. This code was created for use by one user. Directory references must be changed to the relevant location for each user.
+
 Overview
 RedditVideoCreator is a Python application designed to automate the creation of video content from Reddit posts. It fetches posts from specified subreddits, converts the text to speech, combines the audio with a background video, and adds subtitles for each post. The project aims to facilitate the production of engaging video content for platforms like YouTube or social media.
 
